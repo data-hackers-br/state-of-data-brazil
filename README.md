@@ -425,7 +425,7 @@ bem-vindos.
 
 ### Contribuidores ♥️
 
-![Contribuidores](https://contrib.rocks/image?repo=data-hackers-br/state-of-data-brazil)
+[![Contribuidores](docs/assets/contributors.svg)](https://github.com/data-hackers-br/state-of-data-brazil/graphs/contributors)
 
 ---
 
